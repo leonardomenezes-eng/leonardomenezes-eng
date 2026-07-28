@@ -10,9 +10,9 @@ The listed items are habilities that I developed during academics assignments an
 
 - RISC-V Assembly, C++, Python and SysyemVerilog
 - Arduino
-- Combinational Circuits 
+- Digital Logic and Combinational Circuits 
 
-I have basic knowledge of these programming and hardware description languages but currently I'm most familiar with C++.
+PS: I have basic knowledge of these programming and hardware description languages but currently I'm most familiar with C++.
 
 ## Interest 🔍
 
