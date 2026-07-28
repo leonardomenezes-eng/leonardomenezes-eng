@@ -23,5 +23,5 @@ Summary, hardware-software integration with the purpose to get deeper.
 
 ## About ME & Contact ✉️
 Thanks for making it this far. As I said before, I opened to talk. So here is my maily contacts and also bit more about and academic career.
-- 'Email:'menezes.leonardoramos@gmail.com
-- 'Lattes:'http://lattes.cnpq.br/8210292280823924
+- `Email:`menezes.leonardoramos@gmail.com
+- `Lattes:`http://lattes.cnpq.br/8210292280823924
