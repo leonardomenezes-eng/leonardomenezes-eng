@@ -9,7 +9,7 @@ The listed items are habilities that I developed during academics assignments an
 ### Skills 📚
 
 - RISC-V Assembly, C++, Python and SysyemVerilog
-- Arduino
+- IoT Projects
 - Digital Logic and Combinational Circuits 
 
 PS: I have basic knowledge of these programming and hardware description languages but currently I'm most familiar with C++.
