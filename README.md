@@ -16,7 +16,7 @@ PS: I have basic knowledge of these programming and hardware description languag
 
 ## Interest 🔍
 
-- Embeed Systems and Microcontrollers
+- Embedded Systems and Microcontrollers
 - Digital Systems and Architecture
 
 Summary, hardware-software integration with the purpose to get deeper. 
