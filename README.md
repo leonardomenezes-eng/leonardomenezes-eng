@@ -10,7 +10,6 @@ The listed items are habilities that I developed during academics assignments an
 
 - RISC-V Assembly, C++, Python and SysyemVerilog
 - Embedded Systems and IoT Development
-- Digital Logic Design.
 
 PS: I have basic knowledge of these programming and hardware description languages but currently I'm most familiar with C++.
 
