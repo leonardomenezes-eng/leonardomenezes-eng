@@ -4,7 +4,7 @@ I am an Electrical Engineering undergraduate, and I use this profile to share ac
 
 ## Profile 👤
 
-The listed items are habilities that I developed during academics assignments and personal projects. 
+The listed items are abilities that I developed during academics assignments and personal projects. 
 
 ### Skills 📚
 
@@ -21,6 +21,6 @@ PS: I have basic knowledge of these programming and hardware description languag
 Summary, hardware-software integration with the purpose to get deeper. 
 
 ## About ME & Contact ✉️
-Thanks for making it this far. As I said before, I opened to talk. So here is my mainly contacts and also bit more about me.
+Thanks for making it this far. As I said before, I'm open to talk. So here is my main contacts and also a bit more about me.
 - `Email:`menezes.leonardoramos@gmail.com
 - `Lattes:`http://lattes.cnpq.br/8210292280823924
